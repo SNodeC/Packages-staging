@@ -1,0 +1,21 @@
+Architectures: amd64
+Codename: trixie
+Components: main
+Date: Sat, 07 Nov 2026 20:07:15 +0000
+Suite: trixie
+MD5Sum:
+ 3dc03e672e6bac19d27d572e4bde1670              107 Release
+ 1fe5528fdd157d38df46fbc1a5742a94            64253 main/binary-amd64/Packages
+ d3ab8ec46d4b4d12a96e0f822d47533c            16432 main/binary-amd64/Packages.gz
+SHA1:
+ 650e7ebc9f669c0eb0e3fa7fffae0b95b902b0a1              107 Release
+ b0378d7f9db0632b4f1e6289aa1b9a95145c7dee            64253 main/binary-amd64/Packages
+ 3a91ff6275bad6fb283f4318343a9908aa0c1fc8            16432 main/binary-amd64/Packages.gz
+SHA256:
+ d583f4be1e471b2c6ff8f7eb5d1f8099c94f5d9b4f6b8604138d0b67c50c0bdb              107 Release
+ dbad7c5b0a24f24a886e0587071f82412bdd41e500b70aca9d4714192c0d1399            64253 main/binary-amd64/Packages
+ 096dd228c1bf0e2c144ec10264182a3768fb642bc4f2b68948e371581b1273f4            16432 main/binary-amd64/Packages.gz
+SHA512:
+ f7c3b90bcd478e30a718be058758e19b27f2cb6aadbfd0abb5296c5f67f2fc2334b9e7305a0c22246dc946ce5c1df84cfc4aac8976edc0807450b63bd9385ac6              107 Release
+ 974b7880c3bdedb86034f4ec39a13fbc1a21ccc927c127af1358a4d2858441ad0548ecbd9e9a05042455542a8c37b03fc581d1882abd5c30534a38acbdf897fb            64253 main/binary-amd64/Packages
+ 91611095ed78b981c66b74f0c803466c72e9fee03173e212b7852f23814d0cc48e1be50d150abd76cf0263ef2d51ee61353e799d7430cc22d90a05e8d9622f9a            16432 main/binary-amd64/Packages.gz
